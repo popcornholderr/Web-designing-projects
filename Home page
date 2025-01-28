@@ -75,7 +75,7 @@
     <img src="./street_food.jpg" alt="biryani" height="300px" width="400" style="margin-left: 90px;">
     <p style="margin-left: 90px;">Colorful and flavorful Indian street food</p>
 
-    <p>Contact us at <a href="https://www.incredibleindia.gov.in/">info@incredibleindia.com</a></p>
+    <p><i>Contact us at <a href="https://www.incredibleindia.gov.in/">info@incredibleindia.com</a></i></p>
     <p>© 2025 Incredible India Project. All rights reserved.</p>
     <p>Follow us on: <a href="">Facebook</a> <a href="">Twitter</a></p>
     
