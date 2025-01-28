@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome to <mark>Incredible India</mark></h1>
+    <p><b>Discover the diversity, beauty, and rich heritage of India!</b></p>
+
+    <div style="margin-left: 20px;">
+        <li><a href="./HomePage.html">Home</a></li>
+        <li><a href="./Landmark_page.html">Culture</a></li>
+        <li><a href="./Culture_page.html">Landmarks</a></li>
+        <li><a href="./Cuisine_page.html">Cuisine</a></li>
+        <li><a href="./ContactUs_page.html">Contact Us</a></li>
+    </div>
+
+    <h2>About India</h2>
+    
+    <p>India is a land of incredible diversity. From the snow-capped peaks of the Himalayas to the serene backwaters of Kerala, every corner of India tells a unique story. India is the <b>second-most populous country</b> in the world and boasts a history spanning thousands of years. Its rich traditions have left an indelible mark on the world.</p>
+    
+    <img src="./India map.jpg" alt="Image of India" style="margin-left: 100px; height: 400px; width: 400px;">
+    
+    <blockquote>India: A land of cultural and geographical diversity</blockquote>
+    <blockquote>"Unity in diversity is not just a slogan in India but a way of life."</blockquote>
+
+    <p>Highlights of India include:</p>
+    
+    <div style="margin-left: 20px;">
+    <li><b>Architecture:</b> Majestic monuments like the Taj Mahal and Red Fort.</li>
+    <li><b>Cuisine:</b> Diverse flavors from spicy curries to sweet desserts.</li>
+    <li><b>Culture:</b> Vibrant festivals, classical dances, and colorful attire.</li>
+    </div>
+
+    <h2>Famous Landmarks</h2>
+
+    <p>India is home to <mark>29 UNESCO World Heritage Sites</mark>, making it a paradise for history and architecture enthusiasts.</p>
+    
+    <ol>
+    <li><img src="./Taj Mahal.avif" alt="Taj mahal" height="300px" width="500px" style="margin-left: 90px;"></li>
+    <p style="margin-left: 90px;">The Taj Mahal, a symbol of eternal love</p>
+    <li><img src="./qutubminar.jpg" alt="qutubminar" height="300px" width="500px" style="margin-left: 90px;"></li>
+    <p style="margin-left: 90px;">The Qutub Minar, an architectural marvel in Delhi</p>
+    </ol>
+    <i>Don't miss exploring the intricate carvings, towering minarets, and breathtaking landscapes!
+    </i>
+
+    <h2>Indian Culture</h2>
+    
+    <p>India's <b>cultural heritage</b> is a blend of various traditions, languages, and religions. Each region has its unique identity and traditions that are celebrated through festivals and daily life. Here are some highlights:</p>
+    
+    <div style="margin: 20px;">
+        <li><i>Classical Dances:</i> Bharatanatyam, Kathak, and Odissi.</li>
+        <li><i>Music:</i> Traditional instruments like the sitar, tabla, and veena.</li>
+        <li><i>Festivals:</i> Diwali, Holi, Eid, and Christmas bring people together in celebration.</li>
+    </div>
+    
+    <img src="./dance.jpg" alt="dance" height="300px" width="400px" style="margin-left: 90px;">
+    <p style="margin-left: 90px;">A glimpse of Indian Classical Dance</p>
+    
+    <h2>Delicious Indian Cuisine</h2>
+
+    <p>Indian food is as diverse as its culture. From the fiery curries of the south to the hearty bread of the north, there's something for everyone. Popular dishes include:</p>
+
+    <div style="margin-left: 20px;">
+    <li><b>North Indian:</b> Butter chicken, naan, and paneer tikka.</li>
+    <li><b>South Indian:</b> Dosa, idli, and sambhar.</li>
+    <li><b>Street Food:</b> Pani puri, chaat, and vada pav.</li>
+    </div>
+<br>
+    <img src="./biryani.jpg" alt="biryani" height="300px" width="400" style="margin-left: 90px;">
+    <p style="margin-left: 90px;">Delicious Hyderabadi Biryani</p>
+    <img src="./street_food.jpg" alt="biryani" height="300px" width="400" style="margin-left: 90px;">
+    <p style="margin-left: 90px;">Colorful and flavorful Indian street food</p>
+
+    <p>Contact us at <a href="https://www.incredibleindia.gov.in/">info@incredibleindia.com</a></p>
+    <p>© 2025 Incredible India Project. All rights reserved.</p>
+    <p>Follow us on: <a href="">Facebook</a> <a href="">Twitter</a></p>
+    
+</body>
+</html>
