@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="margin-left: 20px;">
+        <li><a href="./HomePage.html">Home</a></li>
+        <li><a href="./Culture_page.html">Culture</a></li>
+        <li><a href="./Landmark_page.html">Landmarks</a></li>
+        <li><a href="./Cuisine_page.html">Cuisine</a></li>
+        <li><a href="./ContactUs_page.html">Contact Us</a></li>
+    </div>
+
+    <h1>Indian culture</h1>
+    <p>Discover the rich and diverse culture of India, a land of unity in diversity.</p>
+
+    <h2>Festivals</h2>
+    <p>India celebrates a variety of festivals that reflect its rich cultural heritage and religious diversity:</p>
+    
+    <div style="margin-left: 20px;">
+        <li><b>Diwali:</b> Festival of Lights, symbolizing the victory of light over darkness.</li>
+        <li><b>Holi:</b> Festival of Colors, celebrating love and the arrival of spring.</li>
+        <li><b>Eid:</b> Festival of Harmony, marked by prayers, feasts, and charity.</li>
+        <li><b>Christmas:</b> Festival of Joy, celebrating the birth of Jesus Christ.</li>
+    </div>
+    <br>
+    <img src="./diwali.jpg" alt="Diwali" style="margin-left: 40px; height: 300px; width: 400px;">
+    <p style="margin-left: 40px;">Diwali: The festival of lights</p>
+    
+    <h2>Languages</h2>
+    <p>India is a linguistic treasure trove with 22 officially recognized languages and thousands of regional dialects:</p>
+    
+    <table border="1"><b>Popular languages in India</b>
+        <tr>
+            <th>Language</th>
+            <th>Region</th>
+        </tr>
+        <tr>
+            <td>Hindi</td>
+            <td>North India</td>
+        </tr>
+        <tr>
+            <td>Bengali</td>
+            <td>West Bengal</td>
+        </tr>
+        <tr>
+            <td>Tamil</td>
+            <td>Tamil nadu</td>
+        </tr>
+        <tr>
+            <td>Telugu</td>
+            <td>Andhra pradesh</td>
+        </tr>
+    </table>
+    
+    <h2>Traditional Attire</h2>
+    <p>Indian traditional clothing varies by region, showcasing its cultural diversity:</p>
+
+    <div style="margin-left: 20px;">
+    <li><b>Saree:</b> Elegant drape worn by women across India.</li>
+    <li><b>Kurta-Pajama:</b> Comfortable attire for men, popular in the north.</li>
+    <li><b>Lehenga:</b> A festive outfit for women, especially in weddings.</li>
+    <li><b>Dhoti:</b> Traditional men's wear in southern and eastern India.</li>
+    </div>
+<br>
+    <img src="./saree.jpg" alt="Saree" style="margin-left: 40px; height: 300px; width: 400px;">
+    <p style="margin-left: 40px;">Traditional Saree - Grace and Elegance</p>
+    
+    <a href="./HomePage.html">&larr; Back to home</a>
+
+    <p><i>Contact us at <a href="https://www.incredibleindia.gov.in/">info@incredibleindia.com</a></i></p>
+    <p>© 2025 Incredible India Project. All rights reserved.</p>
+
+</body>
+</html>
