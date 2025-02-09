@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="margin-left: 20px;">
+        <li><a href="./HomePage.html">Home</a></li>
+        <li><a href="./Culture_page.html">Culture</a></li>
+        <li><a href="./Landmark_page.html">Landmarks</a></li>
+        <li><a href="./Cuisine_page.html">Cuisine</a></li>
+        <li><a href="./ContactUs_page.html">Contact Us</a></li>
+    </div>
+    
+    <h1>Popular Indian Dishes</h1>
+    <p>Explore the flavors of India through its diverse and rich culinary traditions!</p>
+    
+    <audio controls>
+        <source src="./titanium.mp3" type="audio/mp3"> Your browser does not support the audio element.
+    </audio>
+    
+    <h2>North Indian Cuisine</h2>
+    <p>North India is known for its rich, aromatic, and flavorful dishes often cooked with ghee and spices:</p>
+    
+    <div style="margin-left: 20px;">
+        <li><b>Biryani:</b> A fragrant rice dish made with aromatic spices and meat or vegetables.</li>
+        <li><b>Butter Chicken:</b> A creamy, tomato-based curry that's a favorite worldwide.</li>
+        <li><b>Paneer Tikka:</b> Marinated paneer cubes grilled to perfection.</li>
+    </div>
+    <br>
+    <img src="./biryani.jpg" alt="Diwali" style="margin-left: 40px; height: 300px; width: 400px;">
+    <p style="margin-left: 40px;">Aromatic and flavorful Biryani</p>
+    
+    <h2>South Indian Cuisine</h2>
+    <p>South India offers a wide array of dishes with a perfect blend of spices and tangy flavors:</p>
+    
+    <div style="margin-left: 20px;">
+        <li><b>Masala Dosa:</b> A crispy rice crepe stuffed with spicy potato filling.</li>
+        <li><b>Idli and Sambar:</b> Soft rice cakes served with a tangy lentil-based vegetable stew.</li>
+        <li><b>Chettinad Chicken:</b> A fiery, flavorful chicken dish from Tamil Nadu.</li>
+    </div>
+    <br>
+    <img src="./dosa.jpg" alt="Dosa" style="margin-left: 40px; height: 300px; width: 400px;">
+    <p style="margin-left: 40px;">South Indian favorite: Masala Dosa</p>
+    
+    <h2>Sweet delights</h2>
+    <p>No Indian meal is complete without indulging in some mouth-watering desserts:</p>
+    
+    
+    <div style="margin-left: 20px;">
+        <li><b>Gulab Jamun:</b> Fried milk solids soaked in sugar syrup.</li>
+        <li><b>Rasgulla:</b> Soft and spongy cheese balls in light sugar syrup.</li>
+        <li><b>Payasam:</b> A South Indian dessert made of milk, rice, and jaggery.</li>
+    </div>
+    <br>
+    <img src="./gulab_jamun.jpg" alt="Gulab Jamun" style="margin-left: 40px; height: 300px; width: 400px;">
+    <p style="margin-left: 40px;">Irresistible Gulab Jamun</p>
+
+    <a href="./HomePage.html">&larr; Back to home</a>
+
+    <p><i>Contact us at <a href="https://www.incredibleindia.gov.in/">info@incredibleindia.com</a></i></p>
+    <p>© 2025 Incredible India Project. All rights reserved.</p>
+
+</body>
+</html>
